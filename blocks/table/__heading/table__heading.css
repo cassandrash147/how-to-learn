@@ -1,0 +1,8 @@
+.table__heading {
+  font-size: 24px;
+  color: black;
+  font-weight: 600;
+  line-height: 1.15;
+  text-align: left;
+  margin:0;
+}
