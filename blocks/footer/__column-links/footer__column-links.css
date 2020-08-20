@@ -3,9 +3,15 @@
   text-decoration: none;
   line-height: 30px;
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 400;
 }
 
 .footer__column-links:last-of-type{
   margin-bottom: 16px;
 }
+
+.footer__column-links:hover {
+  opacity: 0.3;
+	transition: opacity 0.2s linear;
+}
+

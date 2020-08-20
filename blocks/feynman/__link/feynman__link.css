@@ -4,9 +4,13 @@
   top: 50%;
   right: 48px;
   line-height: 51px;
-  font-weight: 500;
+  font-weight: 400;
   text-decoration: none;
   color: black;
  }
 
+ .feynman__link:hover {
+  opacity: 0.3;
+	transition: opacity 0.2s linear;
+}
 
